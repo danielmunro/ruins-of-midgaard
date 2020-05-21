@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Ruins of Midgaard</title>
+    <link>http://ruinsofmidgaard.com/posts/</link>
+    <description>Recent content in Blog on Ruins of Midgaard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 May 2020 19:28:33 -0700</lastBuildDate>
+    
+	<atom:link href="http://ruinsofmidgaard.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introducing Ruins of Midgaard</title>
+      <link>http://ruinsofmidgaard.com/posts/introducing-ruins-of-midgaard/</link>
+      <pubDate>Wed, 20 May 2020 19:28:33 -0700</pubDate>
+      
+      <guid>http://ruinsofmidgaard.com/posts/introducing-ruins-of-midgaard/</guid>
+      <description>Hello world! Check back later for more information.</description>
+    </item>
+    
+  </channel>
+</rss>
