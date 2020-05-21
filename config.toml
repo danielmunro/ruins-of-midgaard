@@ -1,0 +1,9 @@
+baseURL = "http://ruinsofmidgaard.com/"
+languageCode = "en-us"
+title = "Ruins of Midgaard"
+
+[params]
+  BookToC = false
+  BookMenuBundle = "/menu"
+  BookRepo = 'https://github.com/danielmunro/ruins-of-midgaard'
+  BookSearch = false
